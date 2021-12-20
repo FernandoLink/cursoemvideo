@@ -1,2 +1,2 @@
 # cursoemvideo
- Curso de Python do site cursoemvideo.com
+ Curso de Python do site https://cursoemvideo.com
